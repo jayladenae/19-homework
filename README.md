@@ -1,4 +1,4 @@
-# Budget Tra
+# Budget Tracker
 [Link](https://hw-19-budgettrack.herokuapp.com/)
 ## Description
 A simple budget tracker app that works offline.
