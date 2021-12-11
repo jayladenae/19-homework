@@ -1,5 +1,6 @@
 # Budget Tracker
-[Link](https://hw-19-budgettrack.herokuapp.com/)
+[https://budgettrack.herokuapp.com/](https://hw-19-budgettrack.herokuapp.com/)
+
 ## Description
 A simple budget tracker app that works offline.
 
@@ -12,7 +13,8 @@ SO THAT my account balance is accurate when I am traveling
 
 ### Business Context 
 ```md 
-Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. Having offline functionality is paramount to our applications success.
+Giving users a fast and easy way to track their money is important, but allowing them to access that information anytime is even more important. 
+Having offline functionality is paramount to our applications success.
 ```
 ![Screenshot of deployed site](screenshot.png)
 
@@ -20,8 +22,6 @@ Giving users a fast and easy way to track their money is important, but allowing
 - Ismeny Saguilan
 - Damien Luzzo 
 - Nikki Dodge
-
-
 
 ### License 
 ![MIT License](https://img.shields.io/apm/l/PACK?style=plastic)
